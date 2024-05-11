@@ -1,16 +1,20 @@
-# countries_app
+Welcome to Countries App This app provides information about countries and continents.
 
-A new Flutter project.
+Getting Started
 
-## Getting Started
+To get started with the app, follow these steps:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Explore Continents
+   On the main screen, you will find a list of continents.
+   Click on a continent to view the countries within that continent.
+2. View Countries
+   After selecting a continent, you will be taken to a new screen displaying a list of countries in that continent.
+   Scroll through the list to see the countries.
+3. Search for Countries
+   To search for a specific country, tap on the search icon in the app bar.
+   Enter the name of the country you want to search for.
+   The list will be filtered based on your search query.
+4. View Country Details
+   Tap on a country from the list to view its details.
+   You will be taken to a screen displaying information about the selected country.
+   Details include the country's flag, capital, and continent.
